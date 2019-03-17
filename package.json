@@ -1,0 +1,14 @@
+{
+  "name": "nemo-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "nemo": "./node_modules/.bin/nemo"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nemo": "^4.9.3"
+  }
+}
